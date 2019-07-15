@@ -1,16 +1,16 @@
 PODS:
-  - SJFluidSegmentedControl (1.1.1)
+  - SJFluidSegmentedControl (2.0.0)
 
 DEPENDENCIES:
   - SJFluidSegmentedControl (from `../`)
 
 EXTERNAL SOURCES:
   SJFluidSegmentedControl:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  SJFluidSegmentedControl: fee2cbc86b4ec5f18a9d79b7c19666eaad0a3082
+  SJFluidSegmentedControl: bcf71cc18f8f9ce4a57dcd6cd1e40600c80e1f98
 
-PODFILE CHECKSUM: ebb117249d26cf9f677d1d9c8ffe1ddaba3be26d
+PODFILE CHECKSUM: 2113a4da133e24ac854ce5282c8753a563e5600a
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.7.4
