@@ -18,9 +18,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-- iOS 8.0+ 
-- Xcode 8.0+
-- Swift 3.0+
+- iOS 12.0+ 
+- Xcode 12.0+
+- Swift 5.3+
 
 **Note:** `SJFluidSegmentedControl` is not intended to be used from Objective-C. For an Objective-C version of this library, please refer to the [LUNSegmentedControl](https://github.com/LunApps/LUNSegmentedControl).
 

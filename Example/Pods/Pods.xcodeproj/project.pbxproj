@@ -32,18 +32,18 @@
 		19AA2535D1C9E5B183371392905B6BF8 /* SJFluidSegmentedControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SJFluidSegmentedControl.swift; path = SJFluidSegmentedControl/Classes/SJFluidSegmentedControl.swift; sourceTree = "<group>"; };
 		2F8222A1B72B163DE59808789B9881CB /* SJFluidSegmentedControl-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SJFluidSegmentedControl-Info.plist"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		4594350D36ACDFB3C02C76328749ECB1 /* Pods_SJFluidSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SJFluidSegmentedControl_Example.framework; path = "Pods-SJFluidSegmentedControl_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4594350D36ACDFB3C02C76328749ECB1 /* Pods_SJFluidSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SJFluidSegmentedControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		47270F60B25AB03C897997B2435E6E3C /* Pods-SJFluidSegmentedControl_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SJFluidSegmentedControl_Example-frameworks.sh"; sourceTree = "<group>"; };
 		5333F8E67C22C5E7755673B8BF51E5B1 /* SJFluidSegmentedControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SJFluidSegmentedControl.modulemap; sourceTree = "<group>"; };
 		5FBEE08137CB29FDF2844EB71F30EE52 /* Pods-SJFluidSegmentedControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SJFluidSegmentedControl_Example-umbrella.h"; sourceTree = "<group>"; };
-		6E10E6025613F8600711BC8606640574 /* SJFluidSegmentedControl.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SJFluidSegmentedControl.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6E10E6025613F8600711BC8606640574 /* SJFluidSegmentedControl.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SJFluidSegmentedControl.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		73A809DCC19D01DC11DE905BA562F528 /* SJFluidSegmentedControl.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SJFluidSegmentedControl.xcconfig; sourceTree = "<group>"; };
-		883F05D3FD1A961CBF10EE45EFCD86E5 /* SJFluidSegmentedControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SJFluidSegmentedControl.framework; path = SJFluidSegmentedControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		883F05D3FD1A961CBF10EE45EFCD86E5 /* SJFluidSegmentedControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SJFluidSegmentedControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C260C553F6B38354645163B1E64329D /* Pods-SJFluidSegmentedControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SJFluidSegmentedControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9008CBB2D656EEBD2FC92E690392BF61 /* SJFluidSegmentedControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SJFluidSegmentedControl-umbrella.h"; sourceTree = "<group>"; };
 		9154B2133D4DD202AF248262ED5C3966 /* Pods-SJFluidSegmentedControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJFluidSegmentedControl_Example.release.xcconfig"; sourceTree = "<group>"; };
-		949FE81FB04959FD0E1AFF8F720987B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		949FE81FB04959FD0E1AFF8F720987B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A9E2ADEDD73EE6007C3224D1E83E51CD /* Pods-SJFluidSegmentedControl_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SJFluidSegmentedControl_Example-Info.plist"; sourceTree = "<group>"; };
 		B3C667937C5DC4457C6E475E9B9E0C86 /* SJFluidSegmentedControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SJFluidSegmentedControl-prefix.pch"; sourceTree = "<group>"; };
 		CD3997627D3A003A16F0053D17889214 /* UIView+Constraints.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Constraints.swift"; path = "SJFluidSegmentedControl/Classes/UIView+Constraints.swift"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		E915AD1255C74FFFB1AE9F596090FC71 /* Pods-SJFluidSegmentedControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SJFluidSegmentedControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		E9FF58A0ED418FF8A85DD247A13FF19A /* Pods-SJFluidSegmentedControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SJFluidSegmentedControl_Example.modulemap"; sourceTree = "<group>"; };
 		EAF1F0E39E41B5D3410531C586AAAAF3 /* Pods-SJFluidSegmentedControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SJFluidSegmentedControl_Example-dummy.m"; sourceTree = "<group>"; };
-		F23F1D7124244F2EAE7D3AE5BF2EB42A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		F23F1D7124244F2EAE7D3AE5BF2EB42A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F88F8C28239473D85ED773F2C2F3A7BF /* Pods-SJFluidSegmentedControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJFluidSegmentedControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		FFCA32BCF1592F4EBC517E0B5C1AAE8C /* SJGradientView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SJGradientView.swift; path = SJFluidSegmentedControl/Classes/SJGradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -248,7 +248,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastUpgradeCheck = 1200;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -256,6 +256,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = B3F4F984FF1F0F58C0F0950F8D9ADB76 /* Products */;
@@ -343,6 +344,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -368,7 +370,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -398,7 +400,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-SJFluidSegmentedControl_Example/Pods-SJFluidSegmentedControl_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-SJFluidSegmentedControl_Example/Pods-SJFluidSegmentedControl_Example.modulemap";
@@ -432,7 +434,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SJFluidSegmentedControl/SJFluidSegmentedControl-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SJFluidSegmentedControl/SJFluidSegmentedControl-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SJFluidSegmentedControl/SJFluidSegmentedControl.modulemap";
 				PRODUCT_MODULE_NAME = SJFluidSegmentedControl;
@@ -474,6 +476,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -496,13 +499,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -525,7 +527,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-SJFluidSegmentedControl_Example/Pods-SJFluidSegmentedControl_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-SJFluidSegmentedControl_Example/Pods-SJFluidSegmentedControl_Example.modulemap";
@@ -560,7 +562,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SJFluidSegmentedControl/SJFluidSegmentedControl-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SJFluidSegmentedControl/SJFluidSegmentedControl-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SJFluidSegmentedControl/SJFluidSegmentedControl.modulemap";
 				PRODUCT_MODULE_NAME = SJFluidSegmentedControl;

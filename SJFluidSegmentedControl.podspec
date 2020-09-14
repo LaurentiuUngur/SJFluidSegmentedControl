@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name             = 'SJFluidSegmentedControl'
-s.version          = '2.0.0'
+s.version          = '3.0.0'
 s.summary          = 'A segmented control with custom appearance and interactive animations.'
 
 s.description      = <<-DESC
@@ -17,9 +17,9 @@ s.social_media_url = 'https://twitter.com/sasojadrovski'
 
 
 s.requires_arc = true
-s.ios.deployment_target = '10.0'
-s.swift_version = '5.1'
-s.cocoapods_version = '>= 1.6.0'
+s.ios.deployment_target = '12.0'
+s.swift_version = '5.3'
+s.cocoapods_version = '>= 1.9.0'
 
 s.source_files = 'SJFluidSegmentedControl/Classes/**/*'
 

@@ -24,7 +24,6 @@
 // THE SOFTWARE.
 //
 
-import Foundation
 import UIKit
 
 /// The transition style between the default and selected state of a segment.
